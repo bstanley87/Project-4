@@ -15,15 +15,15 @@ Follow this link: https://project-4-9wfb.onrender.com
 -  git clone https://github.com/bstanley87/Project-4
 -  cd project-4-vehicles
 
-2.Install the required Python libraries:
+  2.Install the required Python libraries:
 -  pip install -r requirements.txt
 
 *Running Locally*
 1. Navigate to the project directory:
 -  cd project-4-vehicles
 
-2.Run the app using app.py:
+  2.Run the app using app.py:
 -  python app.py
 
-3.Open your web browser and navigate to http://127.0.0.1:5000 to access the application locally.
+  3.Open your web browser and navigate to http://127.0.0.1:5000 to access the application locally.
 
